@@ -1,2 +1,2 @@
 # Practice-Programs
-Java DSA - Community Classroom Assignment Programs 
+Java - Assignment Programs 
